@@ -37,7 +37,7 @@ FROM
 WHERE
 	DUPLICATES > 1;
 
--- Updating name of duplicate prodicts
+-- Updating name of duplicate products
 
 UPDATE products p
 SET product_name = CONCAT(p.product_name, ' version ', d.rn)
