@@ -1,0 +1,851 @@
+product_id,product_name,price,cogs,category_id
+1,Acer Laptop,1018.58,530.45,1
+2,Belkin Gaming Mouse Max,2587.65,1341.01,1
+3,Razer Graphics Card Ultra,1772.05,342.84,1
+4,Sonos Over-Ear Headphones,1452.58,285.94,1
+5,Belkin Smart Plug Mini,644.02,105.15,1
+6,Anker 1TB External SSD,643.98,322.42,1
+7,Sonos Gaming Mouse SE,398.8,177.32,1
+8,Apple 5G Smartphone Max,2190.96,1093.44,1
+9,Lenovo Mechanical Keyboard Max,1457.94,375.65,1
+10,Netgear HD Webcam Pro,1709.69,335.74,1
+11,Bose 20000mAh Power Bank 3rd Gen,243.48,110.02,1
+12,Samsung Graphics Card SE,2721.53,1137.91,1
+13,Microsoft Smartwatch Ultra,2070.93,614.22,1
+14,Acer Soundbar 3rd Gen,748.83,328.49,1
+15,Corsair Smartwatch,694.06,333.59,1
+16,Netgear 27-inch 4K Monitor Pro,697,402.63,1
+17,Bose Wireless Charger 2nd Gen,899.25,338.75,1
+18,Google Bluetooth Speaker 3rd Gen,1298.49,425.43,1
+19,Razer Mechanical Keyboard,1121.09,531.42,1
+20,Asus USB-C Docking Station Max,877.84,366.12,1
+21,Belkin Bluetooth Speaker SE,1481.54,503.32,1
+22,Acer 1TB External SSD Ultra,609.78,158.43,1
+23,Lenovo Noise Cancelling Headphones,879.34,232.61,1
+24,Samsung Smart Doorbell 3rd Gen,1004.36,352.11,1
+25,Sony Smart Speaker Mini,1165.72,685.66,1
+26,Lenovo Smart Speaker,1921.56,767.89,1
+27,Acer Mirrorless Camera Max,726.61,205.22,1
+28,Belkin Graphics Card Ultra,1277.56,535.92,1
+29,TP-Link Mini Drone Lite,1439.04,861.86,1
+30,Microsoft 20000mAh Power Bank Plus,358.22,232.36,1
+31,JBL Smart Plug SE,1472.03,287.72,1
+32,Samsung Portable SSD Pro,672.62,152.3,1
+33,Logitech Smart Doorbell,421.17,152.08,1
+34,Sony Wireless Charger Lite,2576.39,1154.08,1
+35,Garmin Smart Plug 2nd Gen,2688.65,1708.74,1
+36,Apple USB-C Hub Pro,1992.63,978.09,1
+37,Canon 5G Smartphone 2nd Gen,899.87,480.8,1
+38,Lenovo Laptop 2nd Gen,512.7,188.36,1
+39,Garmin Wireless Earbuds 2nd Gen,1650.03,1049.33,1
+40,Netgear Bluetooth Speaker Ultra,1136.17,688.88,1
+41,Acer 27-inch 4K Monitor,571.32,230.72,1
+42,Anker Tablet 3rd Gen,1240.21,658.87,1
+43,Canon 5G Smartphone Ultra,310.32,189.06,1
+44,Asus HD Webcam SE,2369.39,378.48,1
+45,Google Gaming Headset 2nd Gen,825.27,222.6,1
+46,Belkin Gaming Headset Mini,1597.63,996.08,1
+47,Sony Graphics Card SE,911.63,508.7,1
+48,Netgear Fitness Tracker Max,1289.14,276.13,1
+49,Fitbit Fitness Tracker Max,1342.93,379.42,1
+50,Asus Action Camera Plus,699.69,429.93,1
+51,Netgear Graphics Card Plus,2718.95,1377.08,1
+52,Microsoft USB-C Hub,1892.01,637.06,1
+53,GoPro Mirrorless Camera Pro,2521.54,690.78,1
+54,Sony HD Webcam,2305.48,1023.99,1
+55,Belkin Mini Drone Plus,1450.93,222.86,1
+56,Corsair USB-C Docking Station,2429.03,642.41,1
+57,Samsung Portable SSD 3rd Gen,488.73,90.62,1
+58,Belkin Mechanical Keyboard,720,282.75,1
+59,Canon Tablet Mini,353.67,154.94,1
+60,Belkin Smart Doorbell SE,934.39,517.42,1
+61,Anker Laptop Pro,1043.37,500.29,1
+62,Google Action Camera Lite,845.49,324.26,1
+63,TP-Link Over-Ear Headphones,2058.51,981.35,1
+64,Acer Laptop,987.78,347.02,1
+65,Lenovo Smart Doorbell Pro,861.03,236.2,1
+66,Anker Fitness Tracker SE,1334.73,293.76,1
+67,Logitech Mechanical Keyboard SE,612.82,168.47,1
+68,Sony Mirrorless Camera Ultra,1973.25,392.59,1
+69,Acer Fitness Tracker,449.82,285.41,1
+70,Netgear Portable SSD Plus,2884.14,672.45,1
+71,Fitbit WiFi 6 Router Plus,1883.64,1096.89,1
+72,Samsung Bluetooth Speaker Lite,724.9,109.52,1
+73,Microsoft Mechanical Keyboard SE,133.34,39.02,1
+74,Corsair Graphics Card Ultra,2015.09,969.13,1
+75,Fitbit Tablet Plus,1706.59,509.17,1
+76,Samsung Mini Drone Ultra,1764.12,318.39,1
+77,Lenovo Over-Ear Headphones,1880.83,831.49,1
+78,GoPro Streaming Stick Ultra,448.34,102.54,1
+79,GoPro Smartwatch Max,990.72,182.55,1
+80,Sony USB-C Hub Plus,557.08,196.03,1
+81,Nikon Gaming Mouse Mini,2179.45,974.78,1
+82,Asus Smartwatch Lite,1507.07,721.41,1
+83,Nikon Smart Plug 3rd Gen,943.76,582.63,1
+84,Anker USB-C Hub 3rd Gen,416.48,112.18,1
+85,Microsoft Tablet,910.42,430.4,1
+86,Garmin HD Webcam Pro,934.14,144.47,1
+87,Asus Mini Drone Pro,1765.71,329.54,1
+88,Anker Smart Plug 2nd Gen,1539.42,332.87,1
+89,Google Gaming Headset Pro,2273.66,1340.63,1
+90,Google 27-inch 4K Monitor Max,1196.13,441.48,1
+91,Canon 1TB External SSD 2nd Gen,565.72,257.88,1
+92,Acer Smart Plug,1722.95,833.79,1
+93,Canon 27-inch 4K Monitor,1850.93,373.51,1
+94,JBL Mechanical Keyboard Pro,1373.01,816.74,1
+95,TP-Link Fitness Tracker Max,1879.95,537.99,1
+96,Asus Smart Speaker 3rd Gen,1237.53,311.61,1
+97,Acer Portable SSD 2nd Gen,1294.45,521.28,1
+98,Dell Gaming Headset,1113.05,218.32,1
+99,Sonos Noise Cancelling Headphones 2nd Gen,268.9,46.26,1
+100,Lenovo 5G Smartphone Max,538.09,252.13,1
+101,Dell Bluetooth Speaker SE,297.32,126.61,1
+102,Sonos Fitness Tracker,1536.79,316.48,1
+103,Corsair Gaming Headset Max,916.04,387.3,1
+104,Google Mini Drone Ultra,1266.38,283.73,1
+105,JBL Over-Ear Headphones 2nd Gen,2361.4,784.75,1
+106,Samsung Gaming Headset 3rd Gen,810.12,206.61,1
+107,Belkin USB-C Hub Pro,1082,353.64,1
+108,Canon Gaming Headset Lite,1836.25,1169.54,1
+109,TP-Link Tablet Plus,776.74,452.3,1
+110,Logitech Gaming Headset Lite,456.84,74.19,1
+111,TP-Link Streaming Stick 3rd Gen,875.42,473.77,1
+112,Sonos Smart Doorbell,654.43,380.9,1
+113,Belkin Mechanical Keyboard Max,2468.65,1342.17,1
+114,Bose Wireless Charger,1991.76,1153.82,1
+115,Belkin Smart Speaker SE,1529.93,496.97,1
+116,Belkin Gaming Mouse,2211.09,1061.36,1
+117,Microsoft HD Webcam 2nd Gen,1977.83,1151.45,1
+118,Netgear Mechanical Keyboard 3rd Gen,702.86,330.86,1
+119,Microsoft USB-C Hub Ultra,2295.88,724.52,1
+120,Apple Laptop 2nd Gen,1327.9,317.75,1
+121,Dell Over-Ear Headphones Pro,1989.62,891.92,1
+122,Google Graphics Card 3rd Gen,2310.87,850.86,1
+123,GoPro Laptop Lite,922.12,553.04,1
+124,Anker Mechanical Keyboard,543.3,274.04,1
+125,Apple Smart Plug Ultra,775.3,382.56,1
+126,TP-Link Graphics Card,1112.26,276.42,1
+127,Sonos Smartwatch,2023.32,1235.01,1
+128,Asus HD Webcam,2170.64,1245.96,1
+129,TP-Link Gaming Headset 2nd Gen,147.78,59.64,1
+130,Razer Action Camera 3rd Gen,1270.67,446.26,1
+131,HP Fitness Tracker Max,1094.67,269.2,1
+132,Razer Wireless Charger,765.52,401.18,1
+133,Logitech Soundbar Mini,566.35,170.17,1
+134,Canon Noise Cancelling Headphones,955.11,288.38,1
+135,Anker Action Camera Mini,2540.95,1151.89,1
+136,Lenovo Mirrorless Camera SE,930.82,345.41,1
+137,Anker Smart Plug SE,1286.59,703.59,1
+138,TP-Link Bluetooth Speaker,1696.84,326.47,1
+139,GoPro USB-C Hub,999.63,459.46,1
+140,Sony Noise Cancelling Headphones Plus,2736.66,1331.11,1
+141,Belkin Smart Doorbell Plus,2665.48,596.21,1
+142,Samsung Gaming Mouse SE,814.09,370.93,1
+143,Netgear Smartwatch SE,1244.23,444.46,1
+144,Acer Mini Drone Plus,893.7,455.05,1
+145,Microsoft WiFi 6 Router Lite,867.39,235.92,1
+146,Acer 1TB External SSD,320.86,191.34,1
+147,Netgear Gaming Headset Pro,1476.49,796.14,1
+148,Belkin Bluetooth Speaker Ultra,1254.83,479.69,1
+149,Canon Gaming Mouse Pro,376.32,142.34,1
+150,Garmin USB-C Hub Ultra,857.31,552.06,1
+151,Asus HD Webcam SE,2364.58,1079.02,1
+152,TP-Link Gaming Headset Ultra,794.45,288.68,1
+153,Canon Mirrorless Camera Max,621.19,324.15,1
+154,Fitbit Mirrorless Camera 2nd Gen,1229.13,646.39,1
+155,Acer Mechanical Keyboard Ultra,2869.59,1125.74,1
+156,Belkin Mechanical Keyboard SE,798.5,150.71,1
+157,HP Gaming Mouse 2nd Gen,1620.62,515.23,1
+158,Canon Smartwatch Max,1853.29,417.76,1
+159,Microsoft 1TB External SSD Max,791.31,398.19,1
+160,Sony Action Camera Lite,1762.02,555.81,1
+161,Garmin Action Camera,1006.83,255.15,1
+162,Sonos Wireless Charger Mini,1527.43,951.64,1
+163,Apple Portable SSD Mini,1530.22,520.57,1
+164,Apple 20000mAh Power Bank 2nd Gen,1320.66,695.64,1
+165,Sonos Fitness Tracker Ultra,493.52,271.4,1
+166,Belkin WiFi 6 Router Plus,2080.6,596.02,1
+167,Fitbit Wireless Earbuds Lite,926.76,294.77,1
+168,Razer Smart Doorbell Lite,702.77,359.88,1
+169,Garmin Streaming Stick Max,336.57,215.53,1
+170,Canon Wireless Earbuds Lite,1435.76,640.27,1
+171,Razer Wireless Earbuds Pro,1633.75,770.11,1
+172,JBL Portable SSD SE,220.1,53.01,1
+173,Dell Wireless Charger 3rd Gen,1273.32,325.75,1
+174,Lenovo HD Webcam Lite,772.9,223.47,1
+175,Sonos Mechanical Keyboard Pro,1556.96,599.67,1
+176,TP-Link Fitness Tracker,679.98,441.96,1
+177,Google Gaming Mouse,1666.57,307.16,1
+178,Acer Over-Ear Headphones,1039.95,649.77,1
+179,Anker Noise Cancelling Headphones,2506.19,1154.52,1
+180,Belkin Tablet SE,605.56,293.53,1
+181,Nikon Smart Speaker SE,960.96,480.22,1
+182,Netgear 20000mAh Power Bank Max,551.45,249.78,1
+183,TP-Link 1TB External SSD Pro,2443.07,1316.56,1
+184,Logitech 27-inch 4K Monitor Pro,2233.97,981.48,1
+185,HP Mini Drone,823.93,497.66,1
+186,Microsoft Wireless Charger Plus,1591.62,299.22,1
+187,Corsair Noise Cancelling Headphones,2020.76,548.48,1
+188,Corsair 5G Smartphone 2nd Gen,1360.41,782.44,1
+189,Asus Smart Doorbell Pro,1308.31,717.1,1
+190,Nikon Smart Doorbell,798.17,258.29,1
+191,Sonos USB-C Hub 3rd Gen,500.92,92.41,1
+192,Acer HD Webcam,2315.69,1331.03,1
+193,Fitbit Laptop Lite,2329.58,1468.55,1
+194,Acer Gaming Headset SE,1529.24,770.21,1
+195,Sonos Bluetooth Speaker Ultra,957.51,605.85,1
+196,Dell Soundbar Ultra,974.84,523.8,1
+197,Garmin Action Camera Mini,1756.06,499.07,1
+198,Belkin Noise Cancelling Headphones Pro,2315.24,670.18,1
+199,Garmin Gaming Mouse SE,2273.14,988.65,1
+200,Razer Wireless Charger 3rd Gen,1905.88,313.23,1
+201,Lenovo Bluetooth Speaker SE,1549.7,396.82,1
+202,Dell HD Webcam 2nd Gen,476.93,281.47,1
+203,Corsair Gaming Headset 2nd Gen,655.23,280.37,1
+204,GoPro Smart Speaker Pro,2321.47,628.37,1
+205,Sonos WiFi 6 Router Ultra,1469.58,777.53,1
+206,Corsair WiFi 6 Router,167.72,84.85,1
+207,Garmin Smart Doorbell,522.28,102.64,1
+208,Belkin Wireless Charger Plus,1599.96,484.95,1
+209,Nikon 20000mAh Power Bank SE,128.3,54.75,1
+210,Google Action Camera Ultra,653.61,206.15,1
+211,Corsair Mirrorless Camera 2nd Gen,1347.08,408.58,1
+212,Belkin Laptop Plus,1668.95,513.66,1
+213,TP-Link Fitness Tracker Max,1572.75,386.54,1
+214,TP-Link WiFi 6 Router 2nd Gen,769.16,394.03,1
+215,Netgear Smart Plug Mini,1720.21,501.44,1
+216,Bose Noise Cancelling Headphones Plus,790.68,235.72,1
+217,Google Bluetooth Speaker 2nd Gen,934.5,146.79,1
+218,Canon Tablet 2nd Gen,1811.21,312.9,1
+219,Samsung Fitness Tracker 2nd Gen,1567.32,781.64,1
+220,JBL USB-C Docking Station SE,2128.96,428.55,1
+221,Nike Flannel Shirt Red,132.3,50.9,2
+222,Columbia Polo Shirt Navy,116.61,73.78,2
+223,Gap Crew Socks 6-Pack White,46.56,26.12,2
+224,Calvin Klein Crew Socks 6-Pack White,86.46,37.91,2
+225,Adidas Running Shoes Navy,72.93,40.52,2
+226,Uniqlo Slim Fit Jeans Grey,70.24,14.7,2
+227,The North Face Denim Jacket Maroon,224.15,122.24,2
+228,Champion Yoga Leggings Olive,89.98,33.77,2
+229,Columbia Wool Sweater Maroon,188.3,121.46,2
+230,Uniqlo Flannel Shirt Maroon,127.46,22.96,2
+231,H&M Summer Dress Grey,161.14,45.49,2
+232,Levi's Casual Sneakers Grey,106.09,25.13,2
+233,Levi's Casual Sneakers Black,118.05,41.82,2
+234,Reebok Wool Sweater Black,104.53,27.78,2
+235,Uniqlo Chino Pants Beige,63.67,11.82,2
+236,Champion Cargo Shorts Maroon,145.03,69.7,2
+237,Puma Rain Jacket White,74.92,31.64,2
+238,Zara Cargo Shorts Navy,27.65,5.13,2
+239,Under Armour Wool Sweater Maroon,130.06,68.21,2
+240,Uniqlo Baseball Cap White,61.03,23.46,2
+241,Uniqlo Chino Pants Olive,206.75,128.46,2
+242,New Balance Tank Top Beige,213.16,78.63,2
+243,Adidas Rain Jacket Blue,196.32,88.71,2
+244,Nike Slim Fit Jeans Grey,86.8,54.77,2
+245,Nike Track Jacket Red,23.66,10.37,2
+246,Under Armour Crew Socks 6-Pack Charcoal,201.57,95.9,2
+247,Gap Casual Sneakers Maroon,94.97,34.94,2
+248,Reebok Slim Fit Jeans Beige,220.15,71.32,2
+249,Ralph Lauren Polo Shirt White,218.37,126.41,2
+250,Ralph Lauren Rain Jacket Beige,176.33,51.86,2
+251,Calvin Klein Tank Top Black,76.69,28.94,2
+252,Ralph Lauren Cargo Shorts Blue,88.87,18.48,2
+253,Calvin Klein Yoga Leggings Black,175.8,84.18,2
+254,Carhartt Baseball Cap Olive,79.63,14.1,2
+255,New Balance Cargo Pants Maroon,59.87,31.62,2
+256,Columbia Pullover Hoodie Grey,114.71,32.52,2
+257,Zara Wool Sweater Beige,204.86,120.95,2
+258,Reebok Bomber Jacket Black,139.68,88.92,2
+259,Champion Chino Pants Navy,116.9,35.7,2
+260,Nike Tank Top Olive,47.28,9.3,2
+261,H&M Baseball Cap White,124.59,59.04,2
+262,Zara Crew Socks 6-Pack Red,238.23,96.35,2
+263,Gap Rain Jacket Beige,55.16,35.31,2
+264,Champion Baseball Cap Charcoal,108.54,24.13,2
+265,Puma Denim Jacket Charcoal,183.58,96.04,2
+266,Zara Slim Fit Jeans Red,148.88,79.85,2
+267,The North Face Polo Shirt Charcoal,139.87,39.67,2
+268,Nike Wool Sweater Red,140.96,80.17,2
+269,Reebok Running Shoes Beige,85.34,35.78,2
+270,Tommy Hilfiger Polo Shirt Charcoal,76.57,40.69,2
+271,Calvin Klein Baseball Cap Blue,164.71,96.32,2
+272,Champion Flannel Shirt Olive,164.9,43.99,2
+273,The North Face Pullover Hoodie Blue,180.43,94.25,2
+274,Calvin Klein Winter Parka Navy,195.72,77.83,2
+275,Adidas Running Shoes Charcoal,107.44,67.97,2
+276,Ralph Lauren Bomber Jacket Beige,105.92,21.17,2
+277,Columbia T-Shirt Navy,161.99,57.5,2
+278,Zara Slim Fit Jeans Beige,130.88,70.78,2
+279,Gap Polo Shirt Maroon,140.86,69.92,2
+280,Levi's Polo Shirt Charcoal,161.38,54.87,2
+281,Ralph Lauren Puffer Vest Beige,187.62,109.98,2
+282,Adidas Denim Jacket White,82.43,22.04,2
+283,Uniqlo Pleated Skirt White,87.55,32.13,2
+284,H&M Puffer Vest White,46.63,17.34,2
+285,Uniqlo T-Shirt Black,118.28,36.93,2
+286,Adidas Wool Sweater Blue,31.89,10.76,2
+287,Zara Pleated Skirt Charcoal,100.46,35.77,2
+288,Under Armour Casual Sneakers Navy,112.41,21.3,2
+289,Calvin Klein Denim Jacket Grey,75.66,30.18,2
+290,Zara Pleated Skirt Beige,120.4,56.46,2
+291,Columbia Cargo Shorts Black,30.01,17.99,2
+292,Columbia Wool Sweater Charcoal,32.35,7.41,2
+293,Columbia Cargo Pants Maroon,168.08,50.35,2
+294,The North Face Chino Pants Red,85.44,32.33,2
+295,Uniqlo Summer Dress Olive,52.91,30.51,2
+296,H&M Pleated Skirt Olive,109.15,47.59,2
+297,Uniqlo Chino Pants Red,155.34,25.01,2
+298,Calvin Klein Cargo Shorts Black,66.54,28.81,2
+299,Adidas Denim Jacket Beige,125.98,71.36,2
+300,Uniqlo Pleated Skirt Maroon,44.81,24.69,2
+301,Champion Puffer Vest Grey,36.64,16.87,2
+302,Zara Puffer Vest White,110.6,66.55,2
+303,Adidas Wool Sweater Beige,112.09,18.68,2
+304,Tommy Hilfiger Graphic Tee Navy,128.59,25.08,2
+305,Uniqlo Polo Shirt Olive,145.78,34.67,2
+306,Zara Tank Top Blue,226.09,93.92,2
+307,Gap Casual Sneakers Red,108.22,65.69,2
+308,Reebok Wool Sweater Blue,80.43,44.41,2
+309,Columbia Slim Fit Jeans Navy,161.23,84.98,2
+310,Champion Track Jacket Olive,73.64,46.66,2
+311,Carhartt Cargo Pants White,96.54,52.65,2
+312,Nike Cargo Shorts Charcoal,43.29,9.17,2
+313,Tommy Hilfiger Track Jacket Red,28.06,12.41,2
+314,Tommy Hilfiger Bomber Jacket Grey,217.82,84.02,2
+315,Carhartt Polo Shirt Maroon,171.61,44.74,2
+316,Levi's Puffer Vest Beige,139.67,84.46,2
+317,Uniqlo Puffer Vest Olive,92.22,19.21,2
+318,Adidas Pullover Hoodie Red,60.45,39.17,2
+319,H&M Bomber Jacket Grey,57.84,34.34,2
+320,Zara Winter Parka Beige,71.03,23.83,2
+321,Carhartt Rain Jacket Maroon,113.48,59.14,2
+322,Zara Rain Jacket White,143.41,81.29,2
+323,The North Face Cargo Shorts Black,132.78,65.74,2
+324,Puma Baseball Cap Beige,74.81,46.78,2
+325,Tommy Hilfiger Bomber Jacket Blue,213.64,90.21,2
+326,Tommy Hilfiger Pullover Hoodie Olive,148.27,42.69,2
+327,H&M Baseball Cap White,114.31,55.03,2
+328,Nike Pullover Hoodie Blue,124.01,33.7,2
+329,Zara Flannel Shirt Grey,93.74,17.28,2
+330,Carhartt Summer Dress Maroon,70.71,18.24,2
+331,Champion Polo Shirt Navy,84.86,46.19,2
+332,Nike Cargo Shorts Navy,152.61,98.24,2
+333,Carhartt Cargo Shorts Navy,23.12,4.74,2
+334,Nike Running Shoes Black,50.93,16.76,2
+335,Champion Flannel Shirt Blue,35.02,5.53,2
+336,Gap Pullover Hoodie Navy,33.43,17.41,2
+337,New Balance Bomber Jacket White,177.03,68.71,2
+338,Tommy Hilfiger Yoga Leggings Maroon,141.2,28.88,2
+339,New Balance Pleated Skirt Maroon,101.75,17.47,2
+340,New Balance Wool Sweater Beige,47.41,22.36,2
+341,Nike Pullover Hoodie Beige,104.39,59.88,2
+342,The North Face Track Jacket White,101.64,40.16,2
+343,Columbia Slim Fit Jeans White,60.44,18.8,2
+344,Zara Slim Fit Jeans Navy,95.79,27.54,2
+345,Carhartt Chino Pants Blue,90.74,30.89,2
+346,New Balance Wool Sweater Beige,124.74,50.24,2
+347,The North Face Bomber Jacket White,128.17,73.88,2
+348,Carhartt Graphic Tee Grey,34.82,12.71,2
+349,Champion Rain Jacket Blue,87.41,49.27,2
+350,Calvin Klein Rain Jacket White,126.51,38.75,2
+351,Ralph Lauren Track Jacket Red,106.17,35.8,2
+352,Zara Track Jacket Beige,177.33,32.55,2
+353,Levi's Slim Fit Jeans Olive,132.5,26.27,2
+354,Tommy Hilfiger Running Shoes Charcoal,58.86,10.59,2
+355,Carhartt Tank Top Blue,41.47,20.11,2
+356,The North Face Cargo Pants Olive,129.5,75.63,2
+357,Adidas Wool Sweater Maroon,28.52,8.73,2
+358,H&M Flannel Shirt Charcoal,119.54,30.65,2
+359,Reebok Pleated Skirt White,206.65,67.17,2
+360,Carhartt Cargo Pants White,117.81,62.59,2
+361,Champion Rain Jacket Charcoal,89.29,56.9,2
+362,Carhartt T-Shirt Maroon,129.66,79.68,2
+363,Gap T-Shirt Navy,99.37,28.48,2
+364,Uniqlo Polo Shirt Blue,112.89,17.28,2
+365,Zara Flannel Shirt Olive,207.2,38.29,2
+366,Nike Slim Fit Jeans Charcoal,89.01,22.93,2
+367,The North Face Baseball Cap Blue,217.01,49.63,2
+368,Uniqlo Graphic Tee Blue,192.86,103.84,2
+369,Levi's Pullover Hoodie Navy,63.75,14.58,2
+370,Adidas Track Jacket White,41.18,11.78,2
+371,OXO Memory Foam Pillow Set,110.74,39.54,3
+372,Keurig Bath Towel Set Compact,52.26,16.86,3
+373,Instant Pot Bamboo Cutting Board,107.49,44.44,3
+374,iRobot Digital Air Fryer Deluxe,337.45,117.31,3
+375,Cuisinart Countertop Blender Deluxe,94.51,28.42,3
+376,Keurig Stand Mixer Classic,191.89,56.55,3
+377,Instant Pot Countertop Blender,431.36,225.82,3
+378,Black+Decker Stand Mixer XL,57.89,24.1,3
+379,Dyson Bath Towel Set Pro,410.89,76.44,3
+380,Cuisinart 6-Qt Slow Cooker,179.57,68.21,3
+381,Ninja Food Processor XL,119.17,52.04,3
+382,OXO Bamboo Cutting Board Compact,344.3,121.37,3
+383,Rubbermaid Cordless Vacuum Cleaner,311.85,176.51,3
+384,Pyrex 12-Cup Coffee Maker XL,455.69,260.77,3
+385,Dyson 6-Qt Slow Cooker XL,364.27,150.07,3
+386,Lodge Bamboo Cutting Board Pro,403.91,105.33,3
+387,Black+Decker 12-Cup Coffee Maker Compact,179.63,74.6,3
+388,Keurig Electric Kettle Pro,144.01,73.98,3
+389,Hamilton Beach 10-Piece Cookware Set Compact,372.78,83.21,3
+390,Keurig Cordless Vacuum Cleaner Family Size,406.02,215.23,3
+391,Ninja Cordless Vacuum Cleaner,595.91,227.62,3
+392,Simplehuman Espresso Machine Pro,224.55,130.72,3
+393,Rubbermaid Stand Mixer,210.09,38.69,3
+394,Simplehuman Non-Stick Frying Pan Classic,387.51,212.42,3
+395,Cuisinart Electric Kettle Compact,199.29,60.82,3
+396,Simplehuman Digital Air Fryer,503.93,168.5,3
+397,iRobot 12-Cup Coffee Maker Compact,441.12,201.81,3
+398,Crock-Pot Rice Cooker,230.52,101.47,3
+399,Cuisinart Queen Bedsheet Set Deluxe,372.92,115.89,3
+400,Breville Bath Towel Set Family Size,374.97,235.8,3
+401,Simplehuman 2-Slice Toaster Pro,111.92,71.76,3
+402,Ninja Bath Towel Set Family Size,476.71,80.84,3
+403,Simplehuman Queen Bedsheet Set Family Size,259.54,86.15,3
+404,iRobot Rice Cooker XL,418.74,224.96,3
+405,Cuisinart Non-Stick Frying Pan Pro,192.25,35.17,3
+406,Instant Pot Storage Container Set XL,470.57,137.44,3
+407,Hamilton Beach Food Processor Compact,216.15,95.4,3
+408,Hamilton Beach Electric Kettle Classic,42.37,26.86,3
+409,Lodge Stand Mixer Compact,479.24,146.07,3
+410,Lodge Non-Stick Frying Pan Pro,105.83,58.9,3
+411,Crock-Pot 12-Cup Coffee Maker XL,192,77.61,3
+412,KitchenAid Electric Kettle Classic,525.95,126.3,3
+413,Keurig Food Processor,526.63,129.55,3
+414,Hamilton Beach Stand Mixer Compact,287.44,85.63,3
+415,Instant Pot Bath Towel Set,313.17,150.62,3
+416,Hamilton Beach Shower Curtain Set XL,237.73,53.99,3
+417,Black+Decker Shower Curtain Set Family Size,183.3,93.59,3
+418,Cuisinart 6-Qt Slow Cooker Pro,195.16,95.27,3
+419,Dyson Queen Bedsheet Set Classic,332.33,174.87,3
+420,Simplehuman 10-Piece Cookware Set Deluxe,373.76,113.9,3
+421,Breville Robot Vacuum Pro,396.57,193.98,3
+422,Simplehuman Queen Bedsheet Set Classic,395.38,213.13,3
+423,Crock-Pot Bath Towel Set XL,105.79,66.98,3
+424,Keurig Shower Curtain Set Family Size,255.29,149.73,3
+425,Cuisinart Non-Stick Frying Pan,85.89,50.42,3
+426,Instant Pot Bath Towel Set Compact,277.42,81.15,3
+427,Black+Decker 15-Piece Knife Set,235.15,141.71,3
+428,Hamilton Beach 6-Qt Slow Cooker Compact,463.98,289.16,3
+429,Dyson Queen Bedsheet Set Pro,202.76,124.75,3
+430,OXO Digital Air Fryer XL,118.66,47.58,3
+431,Dyson Rice Cooker Compact,130.19,43.93,3
+432,KitchenAid Food Processor Compact,378.9,215.82,3
+433,Rubbermaid Stand Mixer Family Size,307,51.93,3
+434,Breville Stand Mixer,110.92,41.52,3
+435,KitchenAid 12-Cup Coffee Maker,101.95,28.34,3
+436,Hamilton Beach Storage Container Set XL,346.44,71.23,3
+437,iRobot 10-Piece Cookware Set Classic,95.45,20.13,3
+438,Dyson 6-Qt Slow Cooker,415.7,75.41,3
+439,Breville Shower Curtain Set,349.13,162.69,3
+440,Dyson Stand Mixer Classic,100.41,36.61,3
+441,Pyrex 10-Piece Cookware Set XL,102.35,24.94,3
+442,Ninja Bath Towel Set Pro,585.83,107.7,3
+443,Crock-Pot Storage Container Set,210.88,72.8,3
+444,Breville Digital Air Fryer XL,209.61,134.26,3
+445,Shark Countertop Blender Pro,409.82,223.05,3
+446,Pyrex 10-Piece Cookware Set Compact,522.5,279.93,3
+447,Rubbermaid Stand Mixer,584.32,190.58,3
+448,Rubbermaid Non-Stick Frying Pan Family Size,374.32,211.56,3
+449,Simplehuman Memory Foam Pillow Set Family Size,211.58,117.59,3
+450,Ninja Queen Bedsheet Set,101.61,30.15,3
+451,Cuisinart Robot Vacuum,387.94,119.41,3
+452,iRobot Bath Towel Set XL,281.11,181.19,3
+453,Breville 15-Piece Knife Set,228.77,120.48,3
+454,Keurig Bamboo Cutting Board Pro,480.12,278.98,3
+455,Cuisinart Non-Stick Frying Pan Pro,115.87,33.21,3
+456,Pyrex 6-Qt Slow Cooker XL,254.58,132.8,3
+457,Lodge Food Processor Family Size,43.15,17.18,3
+458,Breville Electric Kettle Classic,245.35,135.08,3
+459,OXO 12-Cup Coffee Maker XL,85.05,38.38,3
+460,Black+Decker Storage Container Set Classic,119.48,37.11,3
+461,Ninja Food Processor Classic,118.87,36.05,3
+462,OXO Cordless Vacuum Cleaner,321.21,104.64,3
+463,Cuisinart Electric Kettle XL,370.25,106.36,3
+464,Cuisinart 12-Cup Coffee Maker XL,291.69,96.74,3
+465,Black+Decker Countertop Blender Family Size,542.03,311.31,3
+466,Simplehuman Digital Air Fryer Family Size,211.09,38.76,3
+467,Pyrex Electric Kettle XL,180.84,112.98,3
+468,Cuisinart Shower Curtain Set Family Size,448.77,219.69,3
+469,Pyrex Electric Kettle,160.55,85.34,3
+470,Hamilton Beach Bath Towel Set Pro,543.54,189.7,3
+471,Shark 10-Piece Cookware Set Compact,44.33,7.22,3
+472,Black+Decker Memory Foam Pillow Set XL,553.66,335.94,3
+473,Instant Pot 15-Piece Knife Set Classic,75.58,37.94,3
+474,Keurig Shower Curtain Set Classic,466.85,232.02,3
+475,Breville Robot Vacuum Compact,268.5,58.5,3
+476,Ninja Queen Bedsheet Set Family Size,603.44,361.67,3
+477,Simplehuman 12-Cup Coffee Maker Pro,96.07,46.49,3
+478,Ninja Storage Container Set Classic,279.21,166.32,3
+479,Black+Decker Non-Stick Frying Pan Family Size,552.74,302.26,3
+480,Crock-Pot 10-Piece Cookware Set Compact,266.64,171.33,3
+481,Hamilton Beach 10-Piece Cookware Set,312.06,50.91,3
+482,Pyrex Queen Bedsheet Set Family Size,343.8,156.76,3
+483,Ninja 12-Cup Coffee Maker Classic,240.01,83.78,3
+484,Breville Bath Towel Set XL,311.22,166.37,3
+485,Ninja Stand Mixer Pro,292.09,137.62,3
+486,Simplehuman Queen Bedsheet Set Pro,475.47,101.83,3
+487,Black+Decker Stand Mixer XL,77.32,31.04,3
+488,Cuisinart 2-Slice Toaster Family Size,179.28,54.15,3
+489,Black+Decker Food Processor Deluxe,526.38,170.03,3
+490,Crock-Pot Bamboo Cutting Board Compact,466.11,128.32,3
+491,Shark Stand Mixer Classic,240.43,109.93,3
+492,Ninja Bath Towel Set Family Size,307.86,137.28,3
+493,Hamilton Beach Cordless Vacuum Cleaner Pro,178.11,101.75,3
+494,Cuisinart Countertop Blender Compact,148.01,25.57,3
+495,Shark Non-Stick Frying Pan Deluxe,243.47,129.89,3
+496,OXO Shower Curtain Set,203.6,81.24,3
+497,iRobot Non-Stick Frying Pan Classic,291.81,114.24,3
+498,Lodge Bamboo Cutting Board,98.36,18.34,3
+499,Cuisinart Cordless Vacuum Cleaner,561.17,200.79,3
+500,Simplehuman Robot Vacuum Pro,584.81,265.11,3
+501,Rubbermaid Food Processor Pro,345.02,220.01,3
+502,Hamilton Beach Electric Kettle Compact,271.9,84.17,3
+503,Simplehuman 2-Slice Toaster Classic,188.72,70.73,3
+504,Hamilton Beach 2-Slice Toaster,410.46,121.13,3
+505,Lodge Shower Curtain Set XL,338.31,92.74,3
+506,Black+Decker Food Processor Pro,138.24,33.86,3
+507,Black+Decker Memory Foam Pillow Set,484.32,193.43,3
+508,iRobot Memory Foam Pillow Set,416.15,81.16,3
+509,Lodge Bath Towel Set,525.62,332.9,3
+510,Keurig Step Trash Can Pro,359.27,62.63,3
+511,iRobot Memory Foam Pillow Set,304.85,89.28,3
+512,KitchenAid 2-Slice Toaster XL,226.59,49.16,3
+513,Shark Electric Kettle XL,506.02,168.49,3
+514,Lodge Digital Air Fryer Deluxe,446.84,148.02,3
+515,iRobot 12-Cup Coffee Maker XL,77.15,31.02,3
+516,Shark Shower Curtain Set Compact,61.04,13.08,3
+517,Instant Pot Rice Cooker Pro,211.65,115.87,3
+518,Rubbermaid Storage Container Set Pro,408.38,215.41,3
+519,Keurig Shower Curtain Set XL,587.38,234.97,3
+520,Cuisinart Digital Air Fryer Family Size,133.3,67.56,3
+521,Nylabone Puppy Training Pads,74.48,28.19,4
+522,Greenies Cat Tree Tower Medium,54.38,17.07,4
+523,Greenies Bird Cage Medium,136.72,47.37,4
+524,Greenies Aquarium Filter,106.66,33.94,4
+525,Zesty Paws Cat Tree Tower,106.03,41.87,4
+526,Greenies Aquarium Filter,62.16,34.68,4
+527,Furbo Bird Cage,57.31,11.74,4
+528,PetSafe Aquarium Filter,45.58,27.32,4
+529,Zesty Paws Dry Dog Food 15lb Bag,23.4,9.06,4
+530,Hill's Cat Scratching Post,110.63,19.44,4
+531,Chuckit Orthopedic Pet Bed,101.94,47.35,4
+532,Greenies Pet Grooming Brush Medium,157.74,88.47,4
+533,Petmate Wet Cat Food 12-Can Pack,152.22,95,4
+534,Purina Durable Chew Toy Small,70.5,26.12,4
+535,PetSafe Covered Cat Litter Box,95.48,47.29,4
+536,PetSafe Cat Tree Tower,128.45,58.54,4
+537,Chuckit Wet Cat Food 12-Can Pack,107.95,23.65,4
+538,Petmate Dog Dental Chews Large,43.54,28.26,4
+539,Chuckit Cat Tree Tower,60.5,18.57,4
+540,Blue Buffalo Elevated Pet Food Bowl,32.85,10.55,4
+541,Furbo Pet Travel Carrier,131.23,51.45,4
+542,Petmate Pet Travel Carrier,75.76,22.67,4
+543,Frisco Aquarium Filter,42.06,10.67,4
+544,Royal Canin Puppy Training Pads Large,83.09,32.4,4
+545,Milk-Bone Pet Travel Carrier Large,77.05,16.25,4
+546,Hill's Dog Dental Chews,52.46,31.36,4
+547,PetSafe No-Pull Dog Harness,31.12,17.19,4
+548,Frisco Wet Cat Food 12-Can Pack Large,83.07,52.14,4
+549,Purina No-Pull Dog Harness,67.03,32.04,4
+550,Royal Canin Puppy Training Pads Medium,95.95,24.09,4
+551,Milk-Bone Pet Travel Carrier,67.02,33.38,4
+552,Blue Buffalo Adjustable Dog Collar,108.39,56.41,4
+553,Petmate Cat Scratching Post Small,70.14,34.01,4
+554,Milk-Bone Cat Scratching Post,71.05,18.93,4
+555,Purina Flea & Tick Treatment Large,112.86,57.41,4
+556,Purina Covered Cat Litter Box Small,56.33,35.62,4
+557,Arm & Hammer Orthopedic Pet Bed,33.37,15.9,4
+558,Arm & Hammer Puppy Training Pads,18.15,8.63,4
+559,Nylabone Aquarium Filter Large,93.58,27.39,4
+560,Kong Reflective Dog Leash,77.29,33.78,4
+561,Milk-Bone Wet Cat Food 12-Can Pack Medium,86.98,31.22,4
+562,Zesty Paws Orthopedic Pet Bed Small,40.76,26.44,4
+563,PetSafe Puppy Training Pads Medium,33.62,20.79,4
+564,Zesty Paws Aquarium Filter Small,14.35,2.22,4
+565,Greenies Adjustable Dog Collar Large,51.83,15.15,4
+566,Hill's Dog Dental Chews,74.04,29.39,4
+567,Blue Buffalo Cat Tree Tower,55.35,15.85,4
+568,Nylabone Adjustable Dog Collar Large,59.32,13.72,4
+569,Chuckit Pet Travel Carrier,118.44,28.79,4
+570,Royal Canin Bird Cage,51.63,15.36,4
+571,Hill's Durable Chew Toy Medium,66.42,30.25,4
+572,Hill's Pet Grooming Brush,97.56,35.5,4
+573,Furbo Reflective Dog Leash,55.72,27,4
+574,Blue Buffalo Covered Cat Litter Box,77.48,24.16,4
+575,Petmate Dry Dog Food 15lb Bag Large,110.2,37.66,4
+576,Chuckit Pet Travel Carrier Large,129.84,39.08,4
+577,Royal Canin Dry Dog Food 15lb Bag Large,34.72,16.56,4
+578,Royal Canin Cat Scratching Post Small,123.63,59.82,4
+579,Chuckit Aquarium Filter Medium,64.34,22.69,4
+580,Milk-Bone Aquarium Filter,44.39,9.26,4
+581,Arm & Hammer Aquarium Filter Large,61.28,28.02,4
+582,Petmate Covered Cat Litter Box,141.03,31.96,4
+583,Royal Canin No-Pull Dog Harness,64.38,32.25,4
+584,Arm & Hammer Puppy Training Pads,50.02,20.95,4
+585,Hill's Durable Chew Toy,78.72,21.55,4
+586,Nylabone Reflective Dog Leash,42.98,16.05,4
+587,Royal Canin No-Pull Dog Harness Small,26.35,16.04,4
+588,Purina Wet Cat Food 12-Can Pack,32.82,13.91,4
+589,Milk-Bone Durable Chew Toy,32.73,13.69,4
+590,Blue Buffalo Bird Cage,35.21,14.44,4
+591,Purina Durable Chew Toy,33.88,14.96,4
+592,Purina Cat Tree Tower,79.56,44.1,4
+593,Chuckit Covered Cat Litter Box,38.05,13.61,4
+594,Greenies Wet Cat Food 12-Can Pack,51.42,19.6,4
+595,Nylabone Aquarium Filter,116.88,18.8,4
+596,Frisco Dry Dog Food 15lb Bag,62.64,16.22,4
+597,Purina Wet Cat Food 12-Can Pack,82.6,26.62,4
+598,Purina Dog Dental Chews Small,37.17,22.94,4
+599,Purina Puppy Training Pads Small,38.98,11.44,4
+600,Blue Buffalo Covered Cat Litter Box,20.67,9.73,4
+601,Royal Canin Flea & Tick Treatment Large,36.85,23.82,4
+602,PetSafe Elevated Pet Food Bowl,45.99,27.99,4
+603,PetSafe Pet Grooming Brush Small,37.61,18.48,4
+604,Hill's Dog Dental Chews Medium,28.08,13.39,4
+605,Furbo Adjustable Dog Collar Medium,31.92,20.63,4
+606,PetSafe Cat Tree Tower Medium,61.43,31.57,4
+607,Petmate Dry Dog Food 15lb Bag,40.2,6.49,4
+608,Frisco Elevated Pet Food Bowl,52.97,26.99,4
+609,PetSafe Dog Dental Chews,65.41,36.74,4
+610,Petmate Elevated Pet Food Bowl Large,85.31,19.41,4
+611,Petmate Adjustable Dog Collar Small,20.37,11.3,4
+612,PetSafe Dry Dog Food 15lb Bag Medium,99.88,25.27,4
+613,Purina Wet Cat Food 12-Can Pack,78.12,35.07,4
+614,Royal Canin Wet Cat Food 12-Can Pack Medium,27.16,14.13,4
+615,PetSafe Elevated Pet Food Bowl Medium,112.27,47.14,4
+616,Nylabone Wet Cat Food 12-Can Pack Medium,122.24,49.13,4
+617,Frisco Cat Scratching Post,24.15,14.69,4
+618,Greenies Bird Cage,45.85,20.58,4
+619,Hill's Bird Cage Medium,100.91,30.36,4
+620,Blue Buffalo Cat Tree Tower Medium,92.65,33.06,4
+621,Frisco Wet Cat Food 12-Can Pack,38.29,23.9,4
+622,Arm & Hammer Orthopedic Pet Bed,40.46,19.8,4
+623,Milk-Bone Puppy Training Pads Small,53.5,34.03,4
+624,Hill's Pet Grooming Brush,63.62,26.23,4
+625,Royal Canin Flea & Tick Treatment,77.06,17.31,4
+626,PetSafe Orthopedic Pet Bed,53.36,22.36,4
+627,Petmate Cat Scratching Post Large,61.59,35.65,4
+628,Blue Buffalo Elevated Pet Food Bowl Small,92.54,39.9,4
+629,PetSafe Dog Dental Chews,19.84,4.31,4
+630,Petmate Pet Travel Carrier Medium,43.94,13.85,4
+631,Hasbro STEM Craft Kit,120.31,40.37,5
+632,Play-Doh Card Game,159.73,45.4,5
+633,Nintendo Action Figure,89.89,16.75,5
+634,VTech Card Game Classic,92.64,23.57,5
+635,Hot Wheels Art Supplies Kit,40.19,10.28,5
+636,Fisher-Price 1000-Piece Jigsaw Puzzle,81.59,53.02,5
+637,Melissa & Doug Stuffed Animal Plush,92.71,41.92,5
+638,Fisher-Price Toy Truck Deluxe,57.93,24.68,5
+639,VTech Art Supplies Kit Classic,60.83,23.31,5
+640,Nintendo Building Bricks Set Junior,73.07,20.52,5
+641,Play-Doh Play Kitchen Set Classic,20.23,4.03,5
+642,Crayola Play Kitchen Set,66.69,38,5
+643,Fisher-Price Building Bricks Set Junior,54.43,19.43,5
+644,Monopoly Stuffed Animal Plush,67.31,15.01,5
+645,Nerf Educational Learning Toy Junior,42.2,9.55,5
+646,Hot Wheels Stuffed Animal Plush Classic,158.39,68.88,5
+647,Fisher-Price Play Kitchen Set Mega,101.3,48.35,5
+648,Nintendo Video Game Junior,114.52,60.89,5
+649,Melissa & Doug Play Kitchen Set Classic,134.51,31.49,5
+650,VTech Building Bricks Set Deluxe,88.13,19.39,5
+651,Play-Doh Play Kitchen Set Deluxe,36.69,22.32,5
+652,Play-Doh Action Figure Mega,93.32,15.58,5
+653,Funko Family Board Game,100.32,48.57,5
+654,VTech Building Blocks Set Classic,126.06,27.58,5
+655,Nintendo Stuffed Animal Plush,79.63,40.1,5
+656,LEGO Card Game Mega,43.4,16.41,5
+657,LEGO Play Kitchen Set,62.42,24.59,5
+658,LEGO Educational Learning Toy,71.4,11.31,5
+659,Crayola Water Blaster Mega,109.2,69.75,5
+660,LEGO Educational Learning Toy,98.01,60.75,5
+661,Mattel 1000-Piece Jigsaw Puzzle,70.59,29.1,5
+662,Fisher-Price Card Game Mega,198.38,81.98,5
+663,Funko Building Bricks Set Junior,103.09,56.44,5
+664,Hasbro Building Bricks Set Classic,57.36,21.77,5
+665,Fisher-Price Stuffed Animal Plush Junior,39.3,19.34,5
+666,Funko Family Board Game,47.03,30.37,5
+667,Nintendo Action Figure,58.31,20.56,5
+668,Barbie Play Kitchen Set,48.09,22.52,5
+669,Crayola Doll House Playset,51.43,20.57,5
+670,Barbie Video Game Mega,62.57,39.96,5
+671,Hasbro Action Figure Deluxe,49.76,12.72,5
+672,Funko Play Kitchen Set Junior,160.18,27.76,5
+673,Hasbro Water Blaster Mega,35.45,15.31,5
+674,LEGO Doll House Playset,91.61,28.15,5
+675,Fisher-Price Remote Control Car,77.03,43.16,5
+676,Funko Toy Truck,195.28,58.51,5
+677,Monopoly Stuffed Animal Plush Mega,40.98,23.25,5
+678,Barbie Video Game Classic,75.52,39.86,5
+679,Mattel Family Board Game Mega,187.47,98,5
+680,Hot Wheels Action Figure,151.72,55.92,5
+681,Funko Family Board Game Junior,140.36,63.52,5
+682,Monopoly Toy Truck,59.6,18.67,5
+683,Nintendo Water Blaster,49.44,31.95,5
+684,Melissa & Doug Stuffed Animal Plush Junior,112.82,48.12,5
+685,Barbie Educational Learning Toy Deluxe,170.52,83.53,5
+686,Nintendo Toy Truck,96.04,51.49,5
+687,Nerf Stuffed Animal Plush,98.13,18.33,5
+688,Nerf Remote Control Car Classic,62.01,31.37,5
+689,Nintendo Remote Control Car,130.61,45.04,5
+690,Hot Wheels 1000-Piece Jigsaw Puzzle,51.49,7.86,5
+691,Nerf STEM Craft Kit Junior,66.88,35.49,5
+692,Hasbro Remote Control Car,78.86,19.22,5
+693,Melissa & Doug Educational Learning Toy,89.35,14.58,5
+694,Hot Wheels Family Board Game Mega,57.93,26.01,5
+695,Hot Wheels Toy Truck,41.43,12.26,5
+696,Barbie Family Board Game,103.81,62.34,5
+697,Fisher-Price Doll House Playset,62.96,21.43,5
+698,Mattel Water Blaster Junior,99.51,28.28,5
+699,Mattel Family Board Game Deluxe,47.24,17.35,5
+700,Barbie Art Supplies Kit Classic,85.88,46.49,5
+701,Hot Wheels Water Blaster Deluxe,92.7,47.32,5
+702,Melissa & Doug Card Game Classic,29.47,6,5
+703,Nerf Building Blocks Set Classic,68.35,21.61,5
+704,Monopoly Toy Truck,44.41,25.81,5
+705,Melissa & Doug Video Game Classic,32.06,17.88,5
+706,Funko Remote Control Car Junior,201.34,62.48,5
+707,Crayola Card Game Classic,66.73,20.49,5
+708,Barbie Video Game Junior,138.81,71.83,5
+709,Nintendo Play Kitchen Set Mega,59.25,32.05,5
+710,Hot Wheels Toy Truck Junior,114.92,64.15,5
+711,Barbie Building Bricks Set,128.83,79.36,5
+712,Fisher-Price Doll House Playset,101.6,54.23,5
+713,LEGO STEM Craft Kit,84.65,21.57,5
+714,VTech Art Supplies Kit,77.2,38.32,5
+715,Funko Educational Learning Toy,69.75,27.88,5
+716,Nintendo Art Supplies Kit Deluxe,170.57,47.14,5
+717,Mattel Educational Learning Toy,143.37,48.53,5
+718,Melissa & Doug Play Kitchen Set Mega,185.18,64.89,5
+719,Play-Doh Educational Learning Toy Mega,42.9,7.22,5
+720,Hot Wheels Family Board Game,123.41,65.96,5
+721,Nintendo Building Bricks Set Deluxe,173.77,82.28,5
+722,LEGO Toy Truck,50.76,16.03,5
+723,VTech Educational Learning Toy,32.72,5.08,5
+724,Nerf Stuffed Animal Plush Mega,125.26,65.56,5
+725,Play-Doh Stuffed Animal Plush Classic,98.54,33.21,5
+726,Melissa & Doug Remote Control Car Junior,145.95,94.7,5
+727,Melissa & Doug 1000-Piece Jigsaw Puzzle Junior,45.19,16.18,5
+728,Hasbro 1000-Piece Jigsaw Puzzle,135.75,84.21,5
+729,Mattel Building Bricks Set Junior,53.27,17.13,5
+730,VTech Card Game Mega,48.49,18.98,5
+731,Melissa & Doug 1000-Piece Jigsaw Puzzle Classic,48.57,24.82,5
+732,Melissa & Doug Video Game,139.82,41.96,5
+733,VTech 1000-Piece Jigsaw Puzzle,112.26,64.5,5
+734,Nintendo 1000-Piece Jigsaw Puzzle,91.41,50.28,5
+735,Crayola Stuffed Animal Plush Mega,70.91,16.82,5
+736,Mattel Video Game Mega,154.75,56.2,5
+737,Melissa & Doug Stuffed Animal Plush,74.87,26.39,5
+738,Mattel Doll House Playset,140.26,67.14,5
+739,Barbie Building Blocks Set,80.56,36.82,5
+740,Fisher-Price STEM Craft Kit Mega,73.03,26.64,5
+741,Coleman Tennis Racket Pro,194.97,56.38,6
+742,NordicTrack Yoga Mat 4-Person,149.39,30.01,6
+743,Titleist Kayak Paddle Pro,297.24,98.95,6
+744,Yeti Cooler Box 45qt,207.32,58.29,6
+745,Titleist Jump Rope 4-Person,131.36,83.15,6
+746,Adidas Resistance Bands Set 4-Person,379.49,131.41,6
+747,Wilson Bicycle Helmet Lite,171.96,98.49,6
+748,Osprey Soccer Ball,220.43,107.3,6
+749,Callaway Insulated Water Bottle 4-Person,384.4,171.09,6
+750,Bowflex Basketball Lite,248.2,51.86,6
+751,Nike Adjustable Dumbbell Set Pro,95.53,32.16,6
+752,Spalding Trekking Poles 2-Person,411.24,147.68,6
+753,Spalding Resistance Bands Set 2-Person,249.45,60.59,6
+754,Bowflex Kayak Paddle XL,158.39,96.55,6
+755,Under Armour Soccer Ball 4-Person,103.54,24.17,6
+756,Nike Basketball Pro,318.76,97.95,6
+757,Columbia Sleeping Bag,246.69,81.29,6
+758,Coleman Jump Rope Pro,217.14,53.76,6
+759,The North Face Kayak Paddle 4-Person,375.56,178.97,6
+760,The North Face Jump Rope 2-Person,316.13,159.67,6
+761,Columbia Jump Rope Pro,107.7,20.61,6
+762,Coleman Golf Club Set Lite,152.14,25.31,6
+763,Yeti Kayak Paddle Lite,135.61,31.75,6
+764,Columbia Jump Rope 4-Person,295.63,119.85,6
+765,Osprey Adjustable Dumbbell Set Lite,54.88,29.5,6
+766,Titleist Bicycle Helmet 4-Person,229.2,128.65,6
+767,Coleman Cooler Box 45qt 4-Person,303.89,78.79,6
+768,The North Face Adjustable Dumbbell Set XL,364.34,205.86,6
+769,Callaway Golf Club Set Lite,160.34,94.18,6
+770,Coleman Cooler Box 45qt Lite,332.54,107.84,6
+771,Titleist Yoga Mat 2-Person,93.15,54.27,6
+772,Wilson Golf Club Set Pro,346.25,192.29,6
+773,Osprey Bicycle Helmet,99.41,50.24,6
+774,Bowflex Folding Camping Chair Pro,175.76,80.51,6
+775,Callaway Tennis Racket,320.37,81.2,6
+776,Coleman Bicycle Helmet 4-Person,107.12,31.12,6
+777,REI Co-op Soccer Ball Lite,130.57,83.5,6
+778,Nike Insulated Water Bottle 4-Person,286.32,81.22,6
+779,Titleist Trekking Poles XL,285.39,159.13,6
+780,Spalding Folding Camping Chair,254.38,164.39,6
+781,Titleist Basketball XL,274.7,160.16,6
+782,Yeti Basketball XL,220.16,68.48,6
+783,Yeti Resistance Bands Set 2-Person,136.46,30.17,6
+784,Bowflex Hiking Backpack XL,161.33,57.61,6
+785,Columbia Yoga Mat XL,117.09,64.08,6
+786,Callaway Yoga Mat 2-Person,385.84,157.35,6
+787,Nike Bicycle Helmet 2-Person,233.8,146.15,6
+788,Adidas 4-Person Camping Tent,176.78,94.94,6
+789,NordicTrack Yoga Mat XL,194.77,123.89,6
+790,Bowflex Bicycle Helmet,418.19,75.97,6
+791,REI Co-op Resistance Bands Set Pro,108.25,68.64,6
+792,Titleist Tennis Racket 2-Person,234.78,66.74,6
+793,Titleist Insulated Water Bottle Lite,208.32,88.26,6
+794,Spalding Jump Rope,243.61,78.41,6
+795,Bowflex Sleeping Bag,42.45,8.48,6
+796,Callaway Cooler Box 45qt,361.44,76.67,6
+797,Titleist Soccer Ball 2-Person,404.47,152.99,6
+798,The North Face Tennis Racket XL,227.6,137.63,6
+799,Under Armour Insulated Water Bottle Pro,275.79,161.95,6
+800,Under Armour Hiking Backpack,396.56,189.28,6
+801,Nike Yoga Mat Lite,280.08,135.07,6
+802,Bowflex Soccer Ball,107.98,37.6,6
+803,Nike Golf Club Set 2-Person,231.37,110.54,6
+804,NordicTrack Adjustable Dumbbell Set,241.93,62.11,6
+805,Wilson Basketball 4-Person,183.52,48.28,6
+806,Bowflex Cooler Box 45qt,292.37,45.03,6
+807,Adidas Adjustable Dumbbell Set,406.4,146.77,6
+808,Spalding Jump Rope,399.03,105.53,6
+809,Wilson Adjustable Dumbbell Set,191.41,58.7,6
+810,Under Armour Insulated Water Bottle Pro,94.15,32.14,6
+811,Titleist Basketball XL,465.41,300.87,6
+812,Spalding Yoga Mat 4-Person,342.03,147.64,6
+813,Osprey Soccer Ball 2-Person,98.39,32.04,6
+814,Yeti Basketball 2-Person,395.25,181.04,6
+815,Columbia Tennis Racket,360.06,215.42,6
+816,Spalding Adjustable Dumbbell Set 4-Person,212.43,109.4,6
+817,Adidas Folding Camping Chair Lite,236.52,129.03,6
+818,Yeti Hiking Backpack XL,176.25,33.86,6
+819,REI Co-op Insulated Water Bottle,67.91,42.15,6
+820,Coleman Insulated Water Bottle Pro,158.47,64.79,6
+821,REI Co-op Tennis Racket XL,323.12,111.76,6
+822,Bowflex Sleeping Bag,25.42,15.23,6
+823,Yeti Jump Rope 2-Person,158.01,32.61,6
+824,Columbia Yoga Mat 4-Person,176.02,104.62,6
+825,Coleman Bicycle Helmet Lite,218.42,47.18,6
+826,Titleist Folding Camping Chair Lite,394.47,166.93,6
+827,Spalding Jump Rope,161.51,30.12,6
+828,Osprey Yoga Mat,161.68,45.45,6
+829,Coleman Sleeping Bag,292.82,102.19,6
+830,Nike Trekking Poles,191.83,68.62,6
+831,NordicTrack Resistance Bands Set,129.32,60.82,6
+832,REI Co-op Basketball Lite,191.89,36.8,6
+833,Wilson Trekking Poles Pro,104.08,66.32,6
+834,Spalding Kayak Paddle Lite,115.52,39.9,6
+835,Bowflex Yoga Mat Lite,205.95,102.84,6
+836,NordicTrack Golf Club Set,182,49.55,6
+837,Under Armour Folding Camping Chair,390.61,147.14,6
+838,Osprey Sleeping Bag Lite,165.94,80.16,6
+839,Bowflex Soccer Ball,232.84,36.4,6
+840,Spalding 4-Person Camping Tent Pro,251.11,99.99,6
+841,Adidas Trekking Poles 4-Person,37.29,20.19,6
+842,NordicTrack Hiking Backpack Pro,262.8,88.28,6
+843,NordicTrack Hiking Backpack XL,116.02,68.82,6
+844,Callaway 4-Person Camping Tent Lite,432.51,239.42,6
+845,Nike Trekking Poles,106.71,30.04,6
+846,Osprey Yoga Mat 2-Person,180.75,68.25,6
+847,Adidas Sleeping Bag 2-Person,82.79,47.99,6
+848,Spalding Bicycle Helmet Pro,495.21,137.45,6
+849,Wilson Adjustable Dumbbell Set Pro,207.15,107.8,6
+850,Coleman Sleeping Bag,237.95,138.36,6
